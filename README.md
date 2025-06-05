@@ -36,6 +36,6 @@ The design is tailored for experimenting with various supply options and integra
 
 ## 📌 Notes
 
-- Intended to be used with HeishaMon firmware (see: https://github.com/rvdbreemen/HeishaMon)
+- Intended to be used with HeishaMon firmware (see: https://github.com/Egyras/HeishaMon/)
 - Verify jumper settings and isolation components before connecting to the heat pump.
 
