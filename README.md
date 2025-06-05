@@ -1,5 +1,5 @@
 # HeishaMon Aquarea
-## Alternative Galvanically Isolated Design
+### Alternative Galvanically Isolated Design
 
 This repository contains an alternative schematic for integrating with Panasonic Aquarea heat pumps using the **HeishaMon** firmware.
 
