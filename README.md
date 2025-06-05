@@ -1,5 +1,5 @@
 # HeishaMon Aquarea
-## Alternative Galvanically Isolated Design
+### Alternative Galvanically Isolated Design
 
 This repository contains an alternative schematic for integrating with Panasonic Aquarea heat pumps using the **HeishaMon** firmware.
 
@@ -14,9 +14,8 @@ This repository contains an alternative schematic for integrating with Panasonic
 - **Galvanically isolated design**  
   Ensures complete electrical isolation from the heat pump for improved safety and reliability.
 
-- **Based on ESP32-C3-DevKitM-1 (official Espressif module)**  
-  Leveraging the low-power, RISC-V based ESP32-C3 with native USB support and integrated WiFi/BLE.
-
+- **Based on ESP32-C3-DevKitC-02 (official Espressif dev module)**
+   
 - **Flexible power supply configuration**  
   The board is designed to support different power input scenarios for testing.  
   By default, it uses **12V @ 250mA** to ensure higher available power and better stability.
